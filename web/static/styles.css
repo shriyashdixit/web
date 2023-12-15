@@ -1,0 +1,18 @@
+
+#bg{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  top: 25%;
+  left: 40%;
+  transform: translate(-40%, -25%);
+  position: absolute;
+  padding: 10px;
+  color: green;
+}
